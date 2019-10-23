@@ -27,7 +27,7 @@ int main() {
     scanf("%c", &lett1);
     getchar();
 
-    risultato = funzioneCase(lett1);
+    risultato = funzioneCase(lett1);                            //invochi la funzione con variabile
     return 0;
 
 }
